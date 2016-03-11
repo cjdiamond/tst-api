@@ -5,8 +5,13 @@
   "license": "MIT",
   "version": "0.0.0",
   "keywords": [],
-  "contributors": [],
-  "main": "src/server.js",
+  "contributors": [
+    {
+      "name": "Cj Diamond",
+      "email": "mrcjdiamond@gmail.com"
+    }
+  ],
+  "main": "src/index.js",
   "scripts": {
     "start": "node .",
     "pretest": "jshint ."
