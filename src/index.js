@@ -28,7 +28,4 @@ boot(app, __dirname, function(err) {
       app.start();
 });
 
-app.boot();
-
-
 
